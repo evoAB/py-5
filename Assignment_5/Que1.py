@@ -1,0 +1,1 @@
+print("Output : ",int(int(input("Enter number : "))/10))

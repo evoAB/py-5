@@ -1,0 +1,1 @@
+print("Output : ",int(input("Enter number : "))%10)

@@ -1,0 +1,1 @@
+print("Last Digit =",int(int(input("Enter 3 digit number : "))%10))

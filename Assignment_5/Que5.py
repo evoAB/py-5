@@ -1,0 +1,1 @@
+print("First Digit =",int(int(input("Enter 3 digit number : "))/100))
